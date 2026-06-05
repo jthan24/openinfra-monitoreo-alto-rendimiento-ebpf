@@ -2,6 +2,11 @@
 Monitoreo de alto rendimiento con BPF para servidores saturados
 
 
+## precheck
+```bash
+apt update && apt install btop && btop --utf-force
+```
+
 ## diagrama de referencia
 ```mermaid
 graph TD
